@@ -3,8 +3,8 @@ plugins {
 	id 'maven-publish'
 }
 
-version = project.mod_version
-group = project.maven_group
+version = "0.2-1.19.4"
+group = "fr.lykiooo.hudplus"
 
 repositories {
 	// Add repositories to retrieve artifacts from in here.
