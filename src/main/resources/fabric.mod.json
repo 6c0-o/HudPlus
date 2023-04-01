@@ -20,6 +20,9 @@
   "entrypoints": {
     "main": [
       "fr.lykiooo.hudplus.HudPlus"
+    ],
+    "client": [
+      "fr.lykiooo.hudplus.HudPlusClient"
     ]
   },
   "mixins": [
